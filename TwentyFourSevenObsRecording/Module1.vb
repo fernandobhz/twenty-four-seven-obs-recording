@@ -25,12 +25,12 @@ Module Module1
 
     Sub Main(args As String())
         Dim Timeout As Long = MillisecondsToNextHour()
-        'Timeout = RECORDING_TIME_BOX 'For testing in development I need shorter period
 
         Do
             Dim Thread As New System.Threading.Thread(Sub() startProcess(Timeout))
             Thread.Start()
 
+            Timeout = RECORDING_TIME_BOX
             System.Threading.Thread.Sleep(Timeout - OVERLAP_PERIOD)
         Loop
 
