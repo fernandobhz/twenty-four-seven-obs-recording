@@ -1,0 +1,12 @@
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\bin\Release\TwentyFourSevenObsRecording.exe.config
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\bin\Release\TwentyFourSevenObsRecording.exe
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\bin\Release\TwentyFourSevenObsRecording.pdb
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\bin\Release\TwentyFourSevenObsRecording.xml
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\bin\Release\System.Net.Http.dll
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\obj\Release\TwentyFourSevenObsRecording.Resources.resources
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\obj\Release\TwentyFourSevenObsRecording.vbproj.GenerateResource.cache
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\obj\Release\TwentyFourSevenObsRecording.vbproj.CoreCompileInputs.cache
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\obj\Release\TwentyFourSevenObsRecording.vbproj.CopyComplete
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\obj\Release\TwentyFourSevenObsRecording.exe
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\obj\Release\TwentyFourSevenObsRecording.xml
+C:\git\TwentyFourSevenObsRecording\TwentyFourSevenObsRecording\obj\Release\TwentyFourSevenObsRecording.pdb
